@@ -7,5 +7,6 @@ public class Main
         System.out.println("REEEEEEEEEEEEEEEEEEEEEEEEEEEEE");
         int x = 25;
         System.out.println(x);
+        System.out.println("lksdjflksdf");
     }
 }
