@@ -6,6 +6,5 @@ public class Main
         System.out.println("Doing this all day...");
         int x = 25;
         System.out.println(x);
-        System.out.println("Please work!");
     }
 }
