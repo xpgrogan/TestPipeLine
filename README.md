@@ -1,2 +1,2 @@
-# TestPipeLine
-PipeLine Demo
+# jClaretyProject
+Clarety Dev-Ops PipeLine Demo
